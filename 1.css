@@ -1,0 +1,34 @@
+div.header{
+background-color:#FF69B4;
+padding:60px;
+margin:20px
+}
+
+div.side1{
+width:50%;
+padding:160px 60px;
+margin-left:20px;
+background-color:#FF1493;
+float:left;
+}
+
+
+div.side2{
+width:27.5%;
+padding:160px 60px;
+margin-left:20px;
+background-color:#C71585;
+float:left;
+}
+
+div.line2:after{
+content:"";
+display:table;
+clear:both;
+}
+
+div.footer{
+background-color:#DB7093;
+padding:60px;
+margin:20px;
+}
